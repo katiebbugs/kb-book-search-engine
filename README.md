@@ -7,6 +7,9 @@
 This is a book search engine application built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
 Using this application an avid reader can search for new books to read, create and account, where they are save a list of books to purchase.
+
+![book-search-engine](https://user-images.githubusercontent.com/79028196/129497963-94c57898-5271-4d0e-83fa-e6cd09f1f73d.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
