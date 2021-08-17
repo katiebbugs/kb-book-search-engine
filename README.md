@@ -8,7 +8,8 @@ This is a book search engine application built using the MERN stack, with a Reac
 
 Using this application an avid reader can search for new books to read, create and account, where they are save a list of books to purchase.
 
-![book-search-engine](https://user-images.githubusercontent.com/79028196/129497963-94c57898-5271-4d0e-83fa-e6cd09f1f73d.png)
+![kb-book-search-engine](https://user-images.githubusercontent.com/79028196/129659975-0814317d-ae50-4f04-b057-ba1d65e3cbe6.png)
+
 
 ## Table of Contents
 
